@@ -1,0 +1,1 @@
+opening emacs shortcut

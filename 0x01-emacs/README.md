@@ -1,1 +1,1 @@
-opening emacs shortcut
+emacs shortcuts
